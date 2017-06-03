@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+table tr th{
+    background-color: #428bca;
+    color: white; 
+}
+
+th, td {
+    padding: 15px;
+    text-align: right;
+}
+
+tr:hover {background-color: #ccc}

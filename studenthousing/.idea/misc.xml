@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/apartmentAPI.php" />
+    <file url="file://$PROJECT_DIR$/bookingAPI.php" />
+    <file url="file://$PROJECT_DIR$/db.php" />
+    <file url="file://$PROJECT_DIR$/deleteBooking.php" />
+    <file url="file://$PROJECT_DIR$/RequestChangeApartmentAPI.php" />
+    <file url="file://$PROJECT_DIR$/saveBooking.php" />
+    <file url="file://$PROJECT_DIR$/saveRequestChangeApartment.php" />
+    <file url="file://$PROJECT_DIR$/studentsAPI.php" />
+    <file url="file://$PROJECT_DIR$/updateStudentInfo.php" />
+  </component>
+</project>
